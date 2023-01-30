@@ -1,6 +1,8 @@
 ## Aprendendo
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" width="100" height="100"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="100" height="100"/>
+
 
 **juliamartins04/juliamartins04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
