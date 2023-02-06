@@ -1,3 +1,9 @@
+
+🎓Estou cursando Técnico de Infomática
+👩‍💻Estagiando na Edtech de Ensino Superior e Profissional +A Educação
+Atualmente estou estudando Desenvolvimento Mobile
+
+
 ## Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80" height="80"/>
 
