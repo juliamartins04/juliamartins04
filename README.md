@@ -1,8 +1,8 @@
 ### Oie! Eu sou a Júlia Martins ✨
 
-- 🎓Estou cursando Técnico de Infomática
-- 👩‍💻Estagiando na Edtech de Ensino Superior e Profissional +A Educação
-- 📗Atualmente estou estudando Desenvolvimento Mobile
+- 🎓Estou cursando Análise e Desenvolvimento de Sistemas
+- 👩‍💻Trabalhando na Edtech de Ensino Superior e Profissional +A Educação
+- 📗Atualmente estou trabalhando e estudando Desenvolvimento Mobile
 - 📫Email para contato: julia.jmartins18@gmail.com
 - 🌐Meu linkedin: <a href="https://www.linkedin.com/in/j%C3%BAlia-martins-9a1830248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="19" target="_blank"></a>    
 
